@@ -3,3 +3,9 @@ p
     font-size: 150px;
     text-align: center;
 }
+
+#texto2
+{
+  color: red;
+  font-style: italic;
+}
